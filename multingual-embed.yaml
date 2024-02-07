@@ -2,4 +2,4 @@ name: paraphrase-multilingual-MiniLM-L12-v2
 backend: sentencetransformers
 embeddings: true
 parameters:
-  model: paraphrase-multilingual-MiniLM-L12-v2
+ model: paraphrase-multilingual-MiniLM-L12-v2
